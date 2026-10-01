@@ -31,4 +31,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: Dockerfile/nodejs-demo-app:latest
+        tags: arpitku209/nodejs-demo-app:latest
